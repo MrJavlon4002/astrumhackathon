@@ -1,1 +1,1 @@
-# astrumhackathon
+# astrumHackathon
